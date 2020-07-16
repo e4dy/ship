@@ -1,3 +1,3 @@
 # deck
 It is part of a ship.
-It is part of a frigate.
+Frigate is a ship. So deck is part of a frigate.
